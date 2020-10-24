@@ -1,3 +1,5 @@
+# From the paper, "Building Longitudinal Google Trends to Measure Dynamic Local-Level Issue Attention" (Taeyong Park, Haewoon Kwak, and Jisun An)
+
 from pytrends.request import TrendReq
 import datetime
 from dateutil.relativedelta import relativedelta
